@@ -1,0 +1,32 @@
+.container__conteudo_centralizacao{
+    display: flex;
+    justify-content: space-between;
+    
+}
+
+.container__conteudo___popular{
+    width: 31%;
+    background-color: #FDFDFD;
+    border-radius: 10px;
+    padding-bottom: 5%;
+}
+.container__conteudo___img{
+    width: 100%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+}
+
+.container__conteudo___divisao{
+    padding: 3% 5%;
+}
+
+.container__conteudo___tittle{
+    font-size: 2.4rem;
+    color: #444;
+}
+
+.container__conteudo___text{
+    font-size: 1.5rem;
+    color: #696969;
+    height: 80px;
+}

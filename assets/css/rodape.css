@@ -1,0 +1,19 @@
+.container__rodape__list-li{
+       list-style: none;
+}
+
+.container__rodape___tittle{
+    text-align: center;
+    font-size: 2rem;
+    color: #444;
+}
+.container__rodape___link{
+    font-size: 1.2rem;
+    color: #696969;
+    padding: 10px;
+}
+
+.container__rodape___li{
+    padding: 10px
+}
+
